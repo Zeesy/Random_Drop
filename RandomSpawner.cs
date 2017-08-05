@@ -1,4 +1,6 @@
-﻿using System.Collections;
+# random time code sourced from http://answers.unity3d.com/questions/898380/spawning-an-object-at-a-random-time-c.html 
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
